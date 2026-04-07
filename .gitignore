@@ -4,3 +4,5 @@ track_analysis.png
 __pycache__/
 .ipynb_checkpoints/
 -dfl-bundesliga-460-mp4-videos-in-30sec-csv.zip
+clips/-dfl-bundesliga-460-mp4-videos-in-30sec-csv/DFL Bundesliga Data Shootout/test/test.csv
+clips/-dfl-bundesliga-460-mp4-videos-in-30sec-csv/DFL Bundesliga Data Shootout/train/train.csv
