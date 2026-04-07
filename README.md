@@ -8,7 +8,7 @@
 | | |
 |---|---|
 | **Live App** | [sportstracking.streamlit.app](https://sportstracking.streamlit.app/) |
-| **Demo Video** ||
+| **Demo Video** |[Demo Video]([(https://youtu.be/Ji423oQ3SnE))|
 
 ---
 
